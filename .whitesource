@@ -1,9 +1,2 @@
 {
-  "settingsInheritedFrom": "samq-democorp/whitesource-config@main",
-  "scanSettings": {
-      "enableReachability": true
-  },
-  "scanSettingsSAST": {
-    "configExternalURL": "https://raw.githubusercontent.com/samq-democorp/whitesource-config/main/SAST/engines/mendsastcli-config.json"
-  }
-}
+  "settingsInheritedFrom": "samq-democorp/whitesource-config@main"
