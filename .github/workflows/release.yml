@@ -26,5 +26,5 @@ jobs:
       with:
         token: ${{secrets.GITHUB_TOKEN}}
         allowUpdates: true
-        artifact: target/easybuggy.jar
-        genereateReleaseNotes: true
+        artifacts: target/easybuggy.jar
+        generateReleaseNotes: true
